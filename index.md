@@ -3,15 +3,9 @@
 - 시드를 던져 적을 공격한다.
 - STAB, HACK에 의존하지 않는 물리 데미지를 준다.
 
-| 스킬 레벨 | 습득가능 레벨 | 공격력 | 크리티컬 배율 | 선딜 | 중딜 | 후딜 |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 100% | 200% | 1s | 1s | 2s |
-| 2 | 2 | 140% | 200% | 1.1s | 1s | 2.1s |
-| 3 | 3 | 180% | 200% | 1.2s | 1s | 2.2s |
-| 4 | 4 | 220% | 200% | 1.3s | 1s | 2.3s |
-| 5 | 5 | 260% | 200% | 1.4s | 1s | 2.4s |
-| 6 | 6 | 300% | 200% | 1.5s | 1s | 2.5s |
-| 7 | 7 | 340% | 200% | 1.6s | 1s | 2.6s |
-| 8 | 8 | 380% | 200% | 1.7s | 1s | 2.7s |
-| 9 | 9 | 420% | 200% | 1.8s | 1s | 2.8s |
-| 10 | 10 | 460% | 200% | 1.9s | 1s | 2.9s |
+| Wrestler              | Origin      | Finisher     |
+| ----------------------| ----------- | -------------|
+| Bret "The Hitman" Hart| Calgary, AB | Sharpshooter |
+| Bret "The Hitman" Hart| Calgary, AB | Sharpshooter |
+| Bret "The Hitman" Hart| Calgary, AB | Sharpshooter |
+| Bret "The Hitman" Hart| Calgary, AB | Sharpshooter |
